@@ -1,0 +1,14 @@
+{
+  "name": "welcome-window",
+  "version": "1.0.0",
+  "description": "Show a seperate welcome window during the first boot of your Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "KorbsStudio",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^12.0.9"
+  }
+}
